@@ -1,2 +1,2 @@
-# highorder tuner (ht) paper
+# Highorder Tuner (HT) paper
 plots for ht paper
